@@ -1,0 +1,13 @@
+{
+name : circle 1
+radius : 4
+area : 50.26548245743669
+perimeter : 25.132741228718345
+},
+
+{
+name : circle 2
+radius : 6
+area : 113.09733552923255
+perimeter : 37.69911184307752
+},
